@@ -6,3 +6,4 @@
 token_quarto.txt
 curso-git-github-r.Rproj
 docs
+.Rbuildignore
