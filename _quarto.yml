@@ -1,0 +1,37 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Fundamentos de Git y GitHub y su aplicación en proyectos colaborativos y reproducibles en R y RStudio"
+  sidebar:
+    background: primary
+    logo: "images/monchi_perfil.jpg"
+    pinned: true
+    align: center
+    tools:
+      - icon: github
+        href: https://github.com/Julenasti/intro_git-github
+        text: GitHub
+    style: docked
+    contents:
+      - href: index.qmd
+        text: Página principal
+      - href: calendario.qmd
+        text: Calendario
+      - href: https://github.com/Julenasti/intro_git-github/tree/main/v0.0.0.9000
+        text: Materiales
+      - href: https://www.centrodeestudiosandaluces.es/cea-actividades/cursos/3767
+        text: Inscripción
+      - href: https://github.com/Julenasti/intro_git-github/discussions
+        text: Foro
+
+format:
+  html:
+    theme: cosmo
+    # css: styles.css
+    toc: true
+
+execute:
+  freeze: auto
+

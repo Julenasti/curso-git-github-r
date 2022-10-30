@@ -1,0 +1,65 @@
+---
+title: "Fundamentos de Git y GitHub y su aplicación en proyectos colaborativos y reproducibles en R y RStudio"
+---
+
+**UBICACIÓN:** Online a través de plataforma virtual (en directo)
+
+**DURACIÓN:** 7,9,14,16 y 21 de noviembre
+
+**IMPORTE:** 100 €
+
+**PROGRAMA**
+
+**Fechas:** Días 7,9,14,16 y 21 de noviembre
+
+**Horas:** 12 horas
+
+**Horario:** desde las 17:00h a 19:30h (menos una sesión que será de 2 horas)
+
+**Matrícula:** 100 euros
+
+**PRESENTACIÓN**
+
+El principal objetivo de este curso es dar a conocer la estructura, funcionalidad y potencialidad de Git, así como su interacción con GitHub para el trabajo en proyectos colaborativos y reproducibles en R y RStudio. Todas estas herramientas están ganando cada vez más importancia a medida que el volumen de datos disponibles aumenta exponencialmente y su análisis se hace más complejo.
+
+Durante el curso aprenderemos cómo Git puede usarse para controlar la trazabilidad de los cambios realizados en proyectos o archivos de R y veremos cómo este control de versiones es especialmente útil en proyectos colaborativos mediante el uso de un servidor de alojamiento en línea como GitHub.
+
+Aunque existen manuales disponibles gratuitamente sobre cómo trabajar con Git, GitHub y RStudio, estas herramientas son complejas y tienen una curva de aprendizaje pronunciada.
+
+En este curso hemos recopilado nuestra experiencia adquirida después de varios años trabajando con estas herramientas con el objetivo de disminuir la pendiente de la curva de aprendizaje de los asistentes.
+
+**OBJETIVOS**
+
+Comprender los fundamentos básicos de Git y GitHub Comprender el flujo de trabajo de Git y GitHub Aprender los comandos básicos de Git que permiten seguir el flujo de trabajo Aprender a realizar trabajos colaborativos y reproducibles mediante Git, GitHub y RStudio
+
+**DOCENTES**
+
+Julen Astigarraga. Departamento de Ciencias de la Vida, Facultad de Ciencias, Universidad de Alcalá
+
+Verónica Cruz-Alonso. Landscape Architecture Department, Graduate School of Design, Harvard University
+
+**PROGRAMA Y DESARROLLO**
+
+**Sesión 1:** Fundamentos básicos y flujo de trabajo en Git y GitHub
+
+**Sesión 2:** Solución de problemas básicos en Git
+
+**Sesión 3:** Proyectos colaborativos y reproducibles mediante Git, GitHub y RStudio: análisis de datos
+
+**Sesión 4:** Proyectos colaborativos y reproducibles mediante Git, GitHub y RStudio: escritura de documentos
+
+**Sesión 5:** Presentación por grupos de los proyectos desarrollados
+
+**DESTINATARIOS** (requisitos mínimos)
+
+Conviene que los asistentes tengan conocimientos básicos del lenguaje de programación de R y el entorno de RStudio
+
+**NECESIDADES** (Alumnos): software, licencias, paquetes...
+
+Actualizar o instalar R <https://cloud.r-project.org>
+
+Actualizar o instalar RStudio <https://www.rstudio.com/products/rstudio/download>
+
+Actualizar o instalar Git <https://happygitwithr.com/install-git.html>
+
+Crear una cuenta en GitHub <https://github.com>

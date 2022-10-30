@@ -1,0 +1,4 @@
+- source: project
+  quarto-pub:
+    - id: 2811982f-37ff-4790-adf6-89e385e9d852
+      url: 'https://quartopub.com/sites/julenasti/curso-git-github-r'
