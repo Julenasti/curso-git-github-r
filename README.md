@@ -1,0 +1,2 @@
+Esta es la página web del curso de "Fundamentos de Git y GitHub y su aplicación en proyectos colaborativos y reproducibles en R y RStudio" generada en Quarto
+https://julenasti.quarto.pub/curso-git-github-r/
