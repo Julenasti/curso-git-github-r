@@ -1,5 +1,5 @@
 ---
-title: "test: Fundamentos de Git y GitHub y su aplicación en proyectos colaborativos y reproducibles en R y RStudio"
+title: "Fundamentos de Git y GitHub y su aplicación en proyectos colaborativos y reproducibles en R y RStudio"
 ---
 
 **UBICACIÓN:** Online a través de plataforma virtual (en directo)
