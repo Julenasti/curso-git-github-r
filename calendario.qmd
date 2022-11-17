@@ -4,8 +4,8 @@ title: "Programa y desarrollo"
 
 | Fechas     | Sesiones                                                                                        |
 |------------|-------------------------------------------------------------------------------------------------|
-| 07/11/2022 | Fundamentos básicos y flujo de trabajo en Git y GitHub                                          |
-| 09/11/2022 | Solución de problemas básicos en Git                                                            |
-| 14/11/2022 | Proyectos colaborativos y reproducibles mediante Git, GitHub y RStudio: análisis de datos       |
-| 16/11/2022 | Proyectos colaborativos y reproducibles mediante Git, GitHub y RStudio: escritura de documentos |
-| 21/11/2022 | Presentación por grupos de los proyectos desarrollados                                          |
+| 21/11/2022 | Fundamentos básicos y flujo de trabajo en Git y GitHub                                          |
+| 23/11/2022 | Solución de problemas básicos en Git                                                            |
+| 28/11/2022 | Proyectos colaborativos y reproducibles mediante Git, GitHub y RStudio: análisis de datos       |
+| 30/11/2022 | Proyectos colaborativos y reproducibles mediante Git, GitHub y RStudio: escritura de documentos |
+| 12/12/2022 | Presentación por grupos de los proyectos desarrollados                                          |
