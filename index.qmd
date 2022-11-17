@@ -1,16 +1,16 @@
 ---
-title: "test: Fundamentos de Git y GitHub y su aplicación en proyectos colaborativos y reproducibles en R y RStudio"
+title: "Fundamentos de Git y GitHub y su aplicación en proyectos colaborativos y reproducibles en R y RStudio"
 ---
 
 **UBICACIÓN:** Online a través de plataforma virtual (en directo)
 
-**DURACIÓN:** 7,9,14,16 y 21 de noviembre
+**DURACIÓN:** 7, 9, 14, 16 y 21 de noviembre
 
 **IMPORTE:** 100 €
 
 **PROGRAMA**
 
-**Fechas:** Días 7,9,14,16 y 21 de noviembre
+**Fechas:** Días 7, 9, 14, 16 y 21 de noviembre
 
 **Horas:** 12 horas
 
