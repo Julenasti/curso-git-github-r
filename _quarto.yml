@@ -19,11 +19,11 @@ website:
         text: Página principal
       - href: calendario.qmd
         text: Calendario
-      - href: https://github.com/Julenasti/intro_git-github/tree/main/v0.0.0.9000
+      - href: https://github.com/Julenasti/intro_git-github/tree/main/centra
         text: Materiales
       - href: https://www.centrodeestudiosandaluces.es/cea-actividades/cursos/3767
         text: Inscripción
-      - href: https://github.com/Julenasti/intro_git-github/discussions
+      - href: https://formacion.centrodeestudiosandaluces.es/course/view.php?id=89#section-7
         text: Foro
 
 format:
